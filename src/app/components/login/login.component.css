@@ -1,0 +1,18 @@
+mat-form-field{
+  width: 100%;
+  padding: 20px 0;
+}
+
+.input-box{
+  background-color: aquamarine;
+  color: midnightblue;
+}
+
+input{
+
+}
+
+button{
+  float: right;
+  width: 200px;
+}
